@@ -81,6 +81,6 @@ Sport and live activities, reading books, drone piloting
 National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute", Kyiv
 *2023 – 2027*
 
-**Java Developer Course** — Certificate
+**Java Developer Course** — [Certificate](https://certificate.ithillel.ua/view/51334938)
 Hillel IT School, Online
 *2024 – 2025*
